@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  width: 100%;
+}
+.form-box {
+  width: 380px;
+  height: 400px;
+  background-color: whitesmoke;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  opacity: 0.5;
+  border-radius: 2%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.header-form {
+  margin-bottom: 15px;
+}
+button {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.message {
+  display: flex;
+  justify-content: space-between;
+}
