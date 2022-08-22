@@ -7,7 +7,7 @@
   Employee Information Dashboard assists employers to view their entire employee directory at once and provides quick access to employee information.
 
   ## Deployed application
-  https://bajaar-team-info-dashboard.vercel.app/
+  https://employee-info-dashboard.vercel.app
 
   ## Technologies used
   HTML, CSS, JavaScript, React, Bootstrap, Vercel
