@@ -25,6 +25,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#Usage)
+  * [Features](#Features)
   * [License](#License)
   * [Contributing](#Contributing)
   * [Questions](#Questions)
@@ -36,13 +37,13 @@
 
   ## Usage
   1. Fork the repository
-  2. Edit employee details in `./utils/Employees.js`
+  2. Edit employee details in `./src/utils/Employees.js`
   3. Use the website locally or deploy it online.
 
   ## Features
   1. Search your employee: You can search by first name, last name, email, phone number, birthday and address.
   2. Sort the employees: Click on a property that you want to sort in the table. For example, click 'Last Name' if you want to sort by last name in ascending or descending order.
-  3. Add/Remove/Update employees in src/utils/Employees.js
+  3. Add/Remove/Update employees in `./src/utils/Employees.js`
 
   ## License
   * MIT
