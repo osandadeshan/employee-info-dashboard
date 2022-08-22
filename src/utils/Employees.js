@@ -2,7 +2,7 @@
 const Employees = [
     {
       id: 1,
-      picture: 'https://i.ibb.co/K2vm9Qd/Osanda.jpg',
+      picture: 'https://user-images.githubusercontent.com/9147189/185972937-3e9c389f-c784-4f07-a69e-934aa949d228.JPEG',
       firstName: 'Osanda',
       lastName: 'Nimalarathna',
       title: 'Mr',
@@ -13,7 +13,7 @@ const Employees = [
     },
     {
       id: 2,
-      picture: 'https://i.ibb.co/FWDMdfx/67212320-10220184909512526-5209977784553701376-n.jpg',
+      picture: 'https://user-images.githubusercontent.com/9147189/185972351-37093cc5-75a5-49fb-95d8-fe32316e3ddb.png',
       firstName: 'Minidu',
       lastName: 'Lankeshwara',
       title: 'Mr',
@@ -24,18 +24,7 @@ const Employees = [
     },
     {
       id: 3,
-      picture: 'https://i.ibb.co/T43Ss52/Tamali.png',
-      firstName: 'Tamali',
-      lastName: 'Karunathilake',
-      title: 'Ms',
-      phone: '+94 77 023 2865',
-      email: 'tamaliudk@gmail.com ',
-      birthday: 'December 7',
-      address: 'No: 40/1, Mount Breeze Lane 2, Gaswatta, Bandarawela'
-    },
-    {
-      id: 4,
-      picture: 'https://i.ibb.co/0qjwtZy/Dulaj.jpg',
+      picture: 'https://user-images.githubusercontent.com/9147189/185971726-c0f07783-a344-4345-916f-8374d436720a.png',
       firstName: 'Dulaj',
       lastName: 'Kavinda',
       title: 'Mr',
@@ -45,8 +34,8 @@ const Employees = [
       address: 'No: 50/3, Sumaga Mawatha, Siddamulla, Piliyandala'
     },
     {
-      id: 5,
-      picture: 'https://i.ibb.co/BLtdbWP/Mayuran.jpg',
+      id: 4,
+      picture: 'https://user-images.githubusercontent.com/9147189/185972148-eb3f2774-f7ee-44ce-bc0d-f1c9a1762ef2.png',
       firstName: 'Mayuran',
       lastName: 'Tharmalingam',
       title: 'Mr',
@@ -54,39 +43,6 @@ const Employees = [
       email: 'tmayuran24@gmail.com',
       birthday: 'April 24',
       address: 'No: 191, Selvanagar, Arayampathy-02, Batticaloa'
-    },
-    {
-      id: 6,
-      picture: 'https://i.ibb.co/nP9mq70/Chaya.jpg',
-      firstName: 'Chaya',
-      lastName: 'Thilakumara',
-      title: 'Mrs',
-      phone: '+94 75 880 3076',
-      email: '',
-      birthday: 'April 30',
-      address: 'No: 335/1, Weeramawatha, Depanama, Pannipitiya'
-    },
-    {
-      id: 7,
-      picture: 'https://i.ibb.co/K0NfVCr/Sadeesha.jpg',
-      firstName: 'Sadeesha',
-      lastName: 'Cooray',
-      title: 'Mr',
-      phone: '+94 77 853 6360',
-      email: 'msadeeshaeranga@gmail.com',
-      birthday: 'February 19',
-      address: 'No: 33, Calido Road, Kalutara North'
-    },
-    {
-      id: 8,
-      picture: 'https://i.ibb.co/QCQyYfQ/Eresh.jpg',
-      firstName: 'Eresh',
-      lastName: 'Wijegunaratne',
-      title: 'Mr',
-      phone: '+94 77 736 7454',
-      email: '',
-      birthday: 'September 11',
-      address: 'Katubedda'
     }
   ];
 
