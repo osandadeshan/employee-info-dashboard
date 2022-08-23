@@ -31,9 +31,13 @@
   * [Questions](#Questions)
 
   ## Installation
-  To install necessary dependencies, run the following command:
+  To install necessary dependencies, execute the following command:
 
       npm i
+
+  To run the web application, execute the following command:
+
+      npm start
 
   ## Usage
   1. Fork the repository
