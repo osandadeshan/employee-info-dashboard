@@ -1,7 +1,7 @@
 # Employee Information Dashboard
 
   ## Preview
-  ![img](./public/img/preview.png)
+  ![Sample Employee Information Dashboard](https://user-images.githubusercontent.com/9147189/186047910-4977d744-ac86-4d6e-9b96-7b51c1be0795.png)
 
   ## Description
   Employee Information Dashboard assists employers to view their entire employee directory at once and provides quick access to employee information.
@@ -51,6 +51,6 @@
   ## Contributing
   The app is contributed by Osanda Nimalarathna.
 
-  Enjoy the website! 🌸
+  Enjoy! 🌸
 
   

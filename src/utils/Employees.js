@@ -6,10 +6,10 @@ const Employees = [
       firstName: 'Osanda',
       lastName: 'Nimalarathna',
       title: 'Mr',
-      phone: '+94 71 552 2087',
-      email: 'osanda.deshan@gmail.com',
+      phone: '+94 71 512 2345',
+      email: 'osanda@gmail.com',
       birthday: 'August 27',
-      address: 'No: 106 "Siriniwasa", Poramba, Ambalangoda'
+      address: '260 Marina Way, Central 18953, Singapore'
     },
     {
       id: 2,
@@ -17,10 +17,10 @@ const Employees = [
       firstName: 'Minidu',
       lastName: 'Lankeshwara',
       title: 'Mr',
-      phone: '+94 71 276 0585',
-      email: 'minidumalya@gmail.com',
+      phone: '+94 71 272 9876',
+      email: 'minidu@gmail.com',
       birthday: 'July 25',
-      address: 'No: 339/1, Prime Park, Thalawathugoda Road, Madiwela'
+      address: '298 Clancy Loranger Way, Vancouver, British Columbia, V5Y 2M4, Canada'
     },
     {
       id: 3,
@@ -28,10 +28,10 @@ const Employees = [
       firstName: 'Dulaj',
       lastName: 'Kavinda',
       title: 'Mr',
-      phone: '+94 77 463 0016',
-      email: 'dulajkaavinda@gmail.com',
+      phone: '+94 77 456 7426',
+      email: 'dulaj@gmail.com',
       birthday: 'February 17',
-      address: 'No: 50/3, Sumaga Mawatha, Siddamulla, Piliyandala'
+      address: '27 Via Firenze, Isola dElba Livorno, Livorno, 57034, Italy'
     },
     {
       id: 4,
@@ -39,10 +39,10 @@ const Employees = [
       firstName: 'Mayuran',
       lastName: 'Tharmalingam',
       title: 'Mr',
-      phone: '+94 75 280 6161',
-      email: 'tmayuran24@gmail.com',
+      phone: '+94 75 729 6953',
+      email: 'mayuran@gmail.com',
       birthday: 'April 24',
-      address: 'No: 191, Selvanagar, Arayampathy-02, Batticaloa'
+      address: '17 Colliergate, York, North Yorkshire, YO1 8BN, United Kingdom'
     }
   ];
 
