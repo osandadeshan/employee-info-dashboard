@@ -14,13 +14,13 @@
 
   ## User Story
 
-  AS A user  
-  I WANT TO be able to view my entire employee directory at once  
-  SO THAT I have quick access to their information.
+  **AS** A user  
+  **I WANT TO** be able to view my entire employee directory at once  
+  **SO THAT** I have quick access to their information.
 
   ## Business Context
 
-  An employee or manager would benefit greatly from being able to view data about other employees. It would be particularly helpful to be able to filter employees by name.
+  An employee or manager would benefit greatly from being able to view data about other employees. It would be particularly helpful to be able to filter employees by name. So that their day to day activities become easier. This application can be easily customizable to cater the requirements on the employee data needed.
 
   ## Table of Contents
   * [Installation](#installation)
